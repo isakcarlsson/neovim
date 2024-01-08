@@ -14,7 +14,3 @@ set binary
 set noeol
 set clipboard=unnamedplus
 set scrolloff=3
-
-call plug#begin('~/.vim/plugged')
-Plug 'm4xshen/autoclose.nvim'
-call plug#end()
